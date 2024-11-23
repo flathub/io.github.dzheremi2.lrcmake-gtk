@@ -140,7 +140,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/Dzheremi2/LRCMake-GTK",
-                    "commit": "1bb4e3c59ea1b9fa2dc306b0c22d1580df9a4d43"
+                    "commit": "5d4eecb0d2f6774721cb29e3c7938712197f2e37"
                 }
             ]
         }
