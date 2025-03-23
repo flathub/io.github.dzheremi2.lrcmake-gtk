@@ -1,6 +1,6 @@
 id: io.github.dzheremi2.lrcmake-gtk
 runtime: org.gnome.Platform
-runtime-version: "47"
+runtime-version: "48"
 sdk: org.gnome.Sdk
 command: chronograph
 finish-args:
@@ -93,7 +93,7 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/jwestman/blueprint-compiler
-        tag: v0.14.0
+        tag: v0.16.0
     cleanup:
       - "*"
   - name: Chronograph
@@ -102,4 +102,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/Dzheremi2/Chronograph
-        commit: 8d18741271e380dd635ba42bbc749a9d2fa77070
+        commit: fecae4cad6dd6eb35c336ee86693cfb586308519
