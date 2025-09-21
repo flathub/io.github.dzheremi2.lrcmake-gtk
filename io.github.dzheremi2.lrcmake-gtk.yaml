@@ -102,4 +102,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/Dzheremi2/Chronograph
-        commit: e569b3e766dad0f43cf9f55a4833845e1cc49ba3
+        commit: 0c2359eb37016c2c7d95c196163909590b69ff4a
