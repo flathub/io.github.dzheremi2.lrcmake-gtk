@@ -1,6 +1,6 @@
 id: io.github.dzheremi2.lrcmake-gtk
 runtime: org.gnome.Platform
-runtime-version: "48"
+runtime-version: "49"
 sdk: org.gnome.Sdk
 command: chronograph
 finish-args:
@@ -102,4 +102,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/Dzheremi2/Chronograph
-        commit: acfd2b7a7348c164f0bb71d0102d81024b20cb57
+        commit: e569b3e766dad0f43cf9f55a4833845e1cc49ba3
