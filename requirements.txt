@@ -1,0 +1,8 @@
+pybind11
+mutagen
+python-magic
+requests
+pillow
+pyyaml
+httpx
+peewee
